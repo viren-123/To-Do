@@ -3,7 +3,7 @@ import react from 'react'
 function Random(){
     return(
         <div>
-            Todo App
+            Todo  App
         </div>
     )
 
