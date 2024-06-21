@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Random from './component/random';
 
 function App() {
   return (
@@ -9,9 +10,10 @@ function App() {
         <p>
          ABHI
         </p>
-        
+
       </header>
       <Random/>
+
     </div>
   );
 }
